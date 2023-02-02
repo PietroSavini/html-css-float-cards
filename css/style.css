@@ -1,0 +1,49 @@
+/* reset */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+
+/* common */
+body {
+    background-color: #33d025;
+    font-family: 'Fredoka', sans-serif;
+    color: #1C1B29;
+    
+}
+
+.paging {
+    width: 100%;
+    padding: 5% 10%;
+}
+
+h1 {
+    color:#E42A6D ;
+    margin-bottom: 2rem;
+}
+
+h2 {
+    font-weight: bold;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color:#28D9F1 ;
+}
+
+.col p {
+    color: white;
+}
+
+
+/* styling header section */
+
+header{
+    text-align: center;
+}
